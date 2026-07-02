@@ -11,7 +11,7 @@ Repository pubblico minimale per distribuire build di prova DAM Field.
 
 Versione corrente: `1.01.047`
 
-SHA-256: `317871D4D3AB6D4F03F67985C95C5322F1159051FACC22190A157914BE3914C6`
+SHA-256: `C940BF159385ECA4B1A62A4604DD22CC8250C390817CD0EF2896B899F7A3D77E`
 
 ## Sicurezza
 
@@ -29,3 +29,4 @@ Per pubblicare:
 6. Salvare.
 
 URL atteso: `https://tornado1961.github.io/DAM-Download/`.
+
