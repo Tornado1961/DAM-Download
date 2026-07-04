@@ -8,12 +8,12 @@ Repository pubblico minimale per distribuire build di prova DAM Field.
 - `assets/site.css`: stile della pagina.
 - `downloads/DAM_Field_latest-release.apk`: APK DAM Field corrente, link stabile per gli operatori.
 - `downloads/DAM_Field_latest-release.apk.sha256`: checksum SHA-256 del link stabile.
-- `downloads/DAM_Field_Ver_1.01.054-release.apk`: APK DAM Field release firmato per collaudo.
-- `downloads/DAM_Field_Ver_1.01.054-release.apk.sha256`: checksum SHA-256 della versione.
+- `downloads/DAM_Field_Ver_1.01.055-release.apk`: APK DAM Field release firmato per collaudo.
+- `downloads/DAM_Field_Ver_1.01.055-release.apk.sha256`: checksum SHA-256 della versione.
 
-Versione corrente: `1.01.054`
+Versione corrente: `1.01.055`
 
-SHA-256: `9640BBB3B73C2B7F6EDA208416DFA63DDFBAA296845B139A86DCE8F94CBDA571`
+SHA-256: `6E8A48F3131C5C870B51C28F92956BF4A9CC7CF6458479F7848EEC25A0FBF050`
 
 ## Sicurezza
 
